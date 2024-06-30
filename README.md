@@ -1,6 +1,6 @@
 # CS-210
 # Summarize the project and what problem it was solving.
-What was needed for this project was to create a produce-tracking program to determine how many of each item is being sold each day. Menu options were added to allow the user to display different different amounts of data for either tracking one item or all the items together. 
+What was needed for this project was to create a produce-tracking program to determine how many of each item is being sold each day. Menu options were added to allow the user to display different amounts of data for either tracking one item or all the items together. 
 # What did you do particularly well?
 I believe I did particularly well with the while loop that was created to display which options the user has and what each option does. This loop also validates user input and displays an error message when they type in the wrong input.
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
